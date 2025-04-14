@@ -18,12 +18,12 @@ the Latin script and its variants.
 More specifically, this release supports the following
 Unicode ranges: Basic Latin, Latin-1, and Latin-2
 
-To contribute to the project contact Brian J. Bonislawsky
-at astigma@astigmatic.com
+To contribute to the project contact Klasky Wolf Lodge
+at klaskywolflodge@gmail.com
 
 ChangeLog
 
-14 April 2025 (Klasky Wolf Lodge) Gauhtion v1.000
+26 March 2025 (Klasky Wolf Lodge) Gauhtion v1.000
 - Initial release
 
 If you make modifications be sure to add your name (N),
